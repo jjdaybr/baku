@@ -1,0 +1,14 @@
+C:\Users\joshu\source\repos\Baku_001\Baku_001\bin\Debug\Baku_001.exe.config
+C:\Users\joshu\source\repos\Baku_001\Baku_001\bin\Debug\Baku_001.exe.manifest
+C:\Users\joshu\source\repos\Baku_001\Baku_001\bin\Debug\Baku_001.application
+C:\Users\joshu\source\repos\Baku_001\Baku_001\bin\Debug\Baku_001.exe
+C:\Users\joshu\source\repos\Baku_001\Baku_001\bin\Debug\Baku_001.pdb
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.Form1.resources
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.Properties.Resources.resources
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.exe.manifest
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.application
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.exe
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.pdb
+C:\Users\joshu\source\repos\Baku_001\Baku_001\obj\Debug\Baku_001.csprojAssemblyReference.cache
